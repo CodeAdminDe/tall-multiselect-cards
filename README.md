@@ -238,7 +238,7 @@ Please install the dev-dependencies first. Then you'll be able to run the tests 
 
 ## 7. Feedback / Support / Security
 
-Please reach out to me at <gh-security@it-habich.de> for feedback or if you'll need support.
+Please reach out to me at <frederic.roggon@codeadmin.de> for feedback or if you'll need support.
 
 If you find security-related issues, please do not use the issue tracker instead, contact me via email.
 
